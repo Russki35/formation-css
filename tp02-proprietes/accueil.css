@@ -1,0 +1,50 @@
+body{
+background-color: #EFECCA;
+
+}
+
+h1{
+color: #C03000;
+}
+
+h2{
+color: #4bb5c1;
+}
+
+ul{
+
+
+}
+
+li{
+
+    display: inline-block;
+    text-align: center;
+    width: 100px;
+    padding: 5px;
+    margin: 1px;
+    margin-right: 10px;
+    border-radius: 2px;
+    background-color: red;
+
+}
+
+li:hover{
+    background-color: #009900;
+}
+
+a{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li, a{
+    
+    text-decoration: none;
+    color: white;
+    
+}
+
+a#contact{
+    color: #0000FF;
+    font-weight: bold;
+}
