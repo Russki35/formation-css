@@ -1,0 +1,49 @@
+body {
+    margin: 0 auto;
+    background-color: blue;
+}
+
+#list_section {
+    text-align: center;
+}
+
+h1 {
+    
+    font-size: 50px;
+    color: white;
+
+}
+
+ul {
+}
+
+li {
+    list-style: none;
+    width: 400px;
+    height: 25px;
+   
+    background-color: white;
+    
+    border-color: white;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 3px;
+}
+
+p {
+}
+
+.item {
+
+    padding-top: 13.5px;
+}
+
+input[type='text'] {
+}
+
+input[type='submit'] {
+}
+
+#itemField {
+  margin-top: 60px;
+  width: 10%;
+}
