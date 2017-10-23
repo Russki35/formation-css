@@ -1,0 +1,53 @@
+body{
+    background-color: #efecca;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: #C03000;
+}
+
+h2{
+    color: #4bb5c1;
+}
+
+a{
+    color: #96CA2D;
+    text-decoration: none;
+}
+
+
+
+.left{
+    display: inline-block;
+    width: 15px;
+    
+}
+
+.right{
+    display: inline-block;
+    margin: 0;
+    padding-left: 5px; 
+}
+
+input{
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 100px;
+    border-radius: 5px;
+    
+   
+    
+}
+
+.sub{
+    display: inline-block;
+    margin-left: 19px;
+    
+}
+
+.sub>input{
+    background-color: red;
+    color: white;
+    width: 170px;
+}
